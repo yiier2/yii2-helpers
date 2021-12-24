@@ -1,5 +1,5 @@
 {
-    "name": "blakmorg/yii2-helpers",
+    "name": "yiier/yii2-helpers",
     "description": "Clone Yiier Helpers for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "blakmorg\\helpers\\": ""
+            "yiier\\helpers\\": ""
         }
     }
 }
