@@ -1,0 +1,21 @@
+{
+    "name": "yiier/yii2-helpers",
+    "description": "Helpers for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Pavel Metelin",
+            "email": "paul@blakmorg.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiier\\helpers\\": ""
+        }
+    }
+}
